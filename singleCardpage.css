@@ -1,0 +1,48 @@
+
+.singlePagecontainer {
+    width: 100%;
+
+
+}
+
+.productDetails {
+    width: 80%;
+    padding: 30px 0;
+    margin: auto;
+    display: flex;
+}
+
+.productimg {
+    width: 100%;
+    padding: 0 25px;
+
+}
+
+.productimg img {
+    width: 300px;
+    margin: 20px auto;
+    aspect-ratio: 1/1;
+}
+
+.p-title {
+    margin-bottom: 10px;
+}
+
+.p-title h1 {
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.description p {
+    margin-bottom: 40px;
+}
+
+.itemprice {
+    color: #d7890c;
+}
+
+.order-btn {
+    display: flex;
+    justify-content: space-evenly;
+}
+
