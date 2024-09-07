@@ -38,7 +38,7 @@ This project is an e-commerce website built with HTML, CSS, and JavaScript. It i
     ```
 
 ## File Structure
-
+```
 EasyMart/
 ├── img/
 │   └── features/
@@ -54,3 +54,4 @@ EasyMart/
 ├── script.js
 ├── singleCard.html
 ├── style.css
+```
